@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="answer_textView" type="id">0</item>
+    <item name="operand1_editText" type="id" />
+    <item name="operand2_editText" type="id">0</item>
+</resources>
